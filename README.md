@@ -8,9 +8,9 @@ Sistema com interface gráfica em Java e banco de dados relacional para controle
  ![alt tag](https://github.com/GTessarini/Reaproveitamento-Conteudo-Academico/blob/main/tela-pesquisa-conteudos.jpg "Tela de software em Java rodando para função de Pesquisa de Conteúdos")
  ![alt tag](https://github.com/GTessarini/Reaproveitamento-Conteudo-Academico/blob/main/tela-pesquisa-reaproveitamentos.jpg "Tela de software em Java rodando para função de Pesquisa de Reaproveitamentos de cada Conteúdo")
 
-## Este projeto não está totalmente disponibilizado para utilização comercial por meio deste repositório. É apenas um pedaço para colaborar com quem busca inpiração ou informação para esse tipo de necessidade.
+## Este projeto não está totalmente disponibilizado para utilização comercial por meio deste repositório. É apenas um pedaço para colaborar com quem busca inspiração ou informação para esse tipo de necessidade.
 
-### Para detalhes completos ou desejo de implantação oficial, me procure pelo e-mail:
+### Para especificações técnicas, detalhes completos ou desejo de implantação oficial, me contate pelo e-mail:
 ### gtessarini@gmail.com
 
 - Gabriel Tessarini
